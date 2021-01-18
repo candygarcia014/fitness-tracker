@@ -26,7 +26,7 @@ let workoutSeed = [
       {
         type: "resistance",
         name: "Lateral Pull",
-        duration: 20,
+        duration: "",
         weight: 300,
         reps: 10,
         sets: 4
