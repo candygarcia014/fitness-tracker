@@ -21,7 +21,7 @@ This app allows the user to track their workouts.
 All dependencies are included in the package.json. In your bash/terminal, type  the command "npm i" to install the necessary node modules.
 
 ## **Usage**
-![DEMO]( images/README.gif)
+![DEMO]( ./images/fitnesstracker.gif)
 
 
 ## **License**
