@@ -1,7 +1,9 @@
 # fitness-tracker
 
 ## **Description**
-This app allows the user to track their workouts. 
+This app allows the user to track their workouts and add workouts to their routine. It also provides the user with a dashboard of their workouts to see a chart flow of their progress. 
+
+The date and the workout duration are not working. I have tried many things :( I will try to talk to my instructor and tutor about it. 
 
 
 ## **Table of Contents**
